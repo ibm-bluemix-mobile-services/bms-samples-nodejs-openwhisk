@@ -43,7 +43,7 @@ Ensure that you have:
 
 	`cf push`
 
-   After running `cf push`, you should be able to see the application running on the Bluemix dashboard. Visiting the application route will greet you with a landing page displaying more information about this template and the ability to explore the API.
+   After running `cf push`, you should be able to see the application running on the Bluemix dashboard.
 
 5. You can run the sample locally by typing the commands:
 
