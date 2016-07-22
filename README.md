@@ -1,1 +1,0 @@
-# bms-samples-nodejs-openwhisk
