@@ -6,7 +6,7 @@
 The sample uses the following Bluemix compute and mobile services:
 
 **Compute**
-* **OpenWhisk** a cloud-first distributed event-based programming service
+* **OpenWhisk** for a cloud-first distributed event-based programming service
 
 **Services**
 * **Push Notifications** for sending notifications to customers
